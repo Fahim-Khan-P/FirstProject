@@ -1,0 +1,68 @@
+#logo{
+	width: 180px;
+	height: 170px;
+}
+span{
+	color: orange;
+	font-family: forte;
+}
+header{
+	border-bottom: 1px solid darkgray;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
+a:hover{
+	background-color: black;
+	color: red;
+	font-family: forte;
+	font-size: 30px;
+
+}
+#f{
+	color: blue;
+}
+ul{
+	list-style: none;
+	display: flex;
+
+}
+#Sign{
+	border: 1px solid gray;
+	padding:8px;
+	background-color: blue;
+	color: orange;
+	font-weight: bolder;
+}
+a{
+	text-decoration: none;
+	margin: 12px;
+	font-size: 25px;
+
+}
+#btn{
+	background-color: black;
+	color: red;
+	padding: 10px;
+	font-size: 17px;
+	border: 1px solid gray;
+	font-family: forte;
+}
+#free{
+	color: red;
+}
+.inf{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+.text{
+	width: 400px;
+	
+}
+#i{
+	width: 600px;
+	height: 500px;
+
+}
